@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 
-Private Projects.
+  - Smartisan U3 Pro Roms Dev / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
 - 🌱 I’m currently learning 
-C# / Java / JS
+  - C# / Java / JS
+- ⚡ Fun fact: I'm a 14-year-old middle school student and i'm prepaaring for exam >_<
 <!--
 **cokeenet/cokeenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
