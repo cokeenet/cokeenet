@@ -1,16 +1,17 @@
 ### Hi there 👋I'm Cokee
 - 🔭 I’m currently working on 
-  - Smartisan U3 Pro Roms Dev / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
+  - Smartisan U3 Pro Rom / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
 - 🌱 I’m currently learning 
-  - C# / Java / JS
+  - C# / Arduino / JS
 - ⚡ Fun fact: 
   - I'm a 14-year-old middle school student and i'm prepaaring for exam >_<
-  - My WebHome: https://home.cokee.xyz
+  - My Website: https://home.cokee.xyz
 - 🤔 How to connect with me
   - Wechat: liquidcokee
   - Email: xiaoyangjunroms@outlook.com
   - Microsoft Team: bluecity@cokee.onmicrosoft.com
   - QQ: 3289640025
+  - bilibili:CokeeOfficial
 ### 😄 Have a nice day!
 <!--
 **cokeenet/cokeenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
