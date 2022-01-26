@@ -1,8 +1,8 @@
 ### Hi there 👋I'm Cokee
 - 🔭 I’m currently working on 
-  - Smartisan U3 Pro Rom / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
+  - Smartisan Nut Pro 2 Rom / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
 - 🌱 I’m currently learning 
-  - C# / C++ / Arduino / Web - H5
+  - C# - WPF / C++ / Arduino / Web - H5 - Miniprogram / Unity
 - ⚡ Fun fact: 
   - I'm a 14-year-old middle school student and i'm prepaaring for exam >_<
   - My Website: https://home.cokee.xyz
