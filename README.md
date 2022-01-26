@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 
   - Smartisan U3 Pro Rom / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
 - 🌱 I’m currently learning 
-  - C# / Arduino / JS
+  - C# / C++ / Arduino / Web - H5
 - ⚡ Fun fact: 
   - I'm a 14-year-old middle school student and i'm prepaaring for exam >_<
   - My Website: https://home.cokee.xyz
