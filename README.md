@@ -1,13 +1,14 @@
 ### Hi there 👋I'm Cokee
 - 🔭 I’m currently working on 
-  - Smartisan Nut Pro 2 Rom / Classroom Computer Display Protect / ESP8266 & ESP32 / Private Projects.
+  - Android Apps Developing / Desktop App Developing / ESP8266 & ESP32 / Other Projects.
 - 🌱 I’m currently learning 
-  - C# - WPF / C++ / Arduino / Web - H5 - Miniprogram / Unity
+  - C# - WPF / Java / C++ / Web - H5 - Miniprogram / Unity & Unreal
 - ⚡ Fun fact: 
   - I'm a 14-year-old middle school student and i'm prepaaring for exam >_<
-  - My Website: https://home.cokee.xyz
+  - My Website: https://home.cokee.xyz(WILL BE DELETED AT JUNE.13
+  - Position: Anhui,China
 - 🤔 How to connect with me
-  - Wechat: liquidcokee
+  - ✨Wechat: liquidcokee
   - Email: xiaoyangjunroms@outlook.com
   - Microsoft Team: bluecity@cokee.onmicrosoft.com
   - QQ: 3289640025
