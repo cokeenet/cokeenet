@@ -2,16 +2,15 @@
 - 🔭 I’m currently working on 
   - Desktop App Developing / ESP8266 & ESP32 / Web Developing.
 - 🌱 I’m currently learning 
-  - C# / Java / C++ / Web - H5 - Miniprogram / Unity3D
+  - C# / Java / C++ / Web - H5 - Miniprogram / Unity3D&Unreal
 - ⚡ Fun fact: 
   - I'm a 15-year-old middle school student and i'm prepaaring for exam >_<
   - My Website: https://cokee.tech
-  - Position: Anhui,China
 - 🤔 How to connect with me
   - ✨Wechat: liquidcokee
   - Email: xiaoyangjunroms@outlook.com
   - Microsoft Team: bluecity@cokee.onmicrosoft.com
-  - QQ: 3289640025
+  - tencent QQ: 3289640025
   - bilibili:CokeeOfficial
 ## 😄 Have a nice day!
 
