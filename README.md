@@ -6,6 +6,7 @@
 - ⚡ Fun fact: 
   - I'm a 15-year-old middle school student and i'm prepaaring for exam >_<
   - My Website: https://cokee.tech
+  - Gitee Account: https://gitee.com/cokee
 - 🤔 How to connect with me
   - ✨Wechat: liquidcokee
   - Email: xiaoyangjunroms@outlook.com
