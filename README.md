@@ -13,6 +13,8 @@
   - tencent QQ: 3289640025
   - bilibili:CokeeOfficial
 ## 😄 Have a nice day!
+[![cokeenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cokeenet/cokeenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
