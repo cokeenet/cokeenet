@@ -13,6 +13,7 @@
   - Microsoft Team: bluecity@cokee.onmicrosoft.com
   - tencent QQ: 3289640025
   - bilibili:CokeeOfficial
+  - 爱发电:https://afdian.net/a/cokee
 ## 😄 Have a nice day!
 [![cokeenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
