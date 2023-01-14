@@ -8,10 +8,7 @@
   - My Website: https://cokee.tech
   - Gitee Account: https://gitee.com/cokee
 - 🤔 How to connect with me
-  - ✨Wechat: liquidcokee
   - Email: xiaoyangjunroms@outlook.com
-  - Microsoft Team: bluecity@cokee.onmicrosoft.com
-  - tencent QQ: 3289640025
   - bilibili:CokeeOfficial
   - 爱发电:https://afdian.net/a/cokee
 ## 😄 Have a nice day!
