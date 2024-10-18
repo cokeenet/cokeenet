@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on 
   - Desktop App Developing / ESP8266 & ESP32 / Web Developing.
 - 🌱 I’m currently learning 
-  - C# / Java / C++ / Web - H5 - Miniprogram / Unity3D&Unreal
+  - C# / Web-TS&JS / Unity3D
 - ⚡ Fun fact: 
-  - I'm a 15-year-old middle school student and i'm prepaaring for exam >_<
+  - I'm a 17-year-old middle school student and i'm preparing for exam >_<
   - My Website: https://cokee.tech
   - Gitee Account: https://gitee.com/cokee
 - 🤔 How to connect with me
