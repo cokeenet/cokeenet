@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 
   - Desktop App Developing / ESP8266 & ESP32 / Web Developing.
 - 🌱 I’m currently learning 
-  - C# / Web-TS&JS / Unity3D
+  - C# / Web-NodeJS&H5 / Unity3D / STM32 & ESP32 / Python / 吸加加
 - ⚡ Fun fact: 
   - I'm a 17-year-old middle school student and i'm preparing for exam >_<
   - My Website: https://cokee.tech
