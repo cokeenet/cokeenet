@@ -11,7 +11,6 @@
   - Email: xiaoyangjunroms@outlook.com
   - bilibili:CokeeOfficial
   - 爱发电:https://afdian.net/a/cokee
-## 😄 绫濑桃 无限恒久激推!
 [![cokeenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
 
