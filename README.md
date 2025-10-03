@@ -1,7 +1,8 @@
 ### Hi there 👋I'm Cokee
 - 🔭 Projects with .NET C# WPF
-  - Cokee.ClassService 高一写的，最初是一个给老师抽签用的桌面悬浮窗，后进化为包含抽签点名，课件/桌面批注，排座位等多功能班级PC软件
-  - CokeeDP 一个班级屏保软件，初二写的，包含Bing壁纸/Bing每日视频背景源，一言展示，自定义小黑板轮播展示
+  - Cokee.ClassService 高一写的，最初是一个给老师抽签用的桌面悬浮窗，后进化为包含抽签点名，学生信息管理，课件/桌面批注，排座位等多功能班级PC软件
+  - CokeeDP 一个班级屏保软件，初二写的，包含Bing壁纸/Bing每日视频背景源，一言展示，自定义小黑板轮播展示，生日提醒，天气预报展示，农历节气展示
+  - 代码太乱了所以没公开(Orz)
 - 🌱 I’m currently learning 
   - C# / Web-NodeJS&H5 / Unity3D / STM32 & ESP32 / Python / 吸加加
 - ⚡ Fun fact: 
