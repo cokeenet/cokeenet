@@ -9,8 +9,9 @@
   - I'm a 17-year-old middle school student and i'm preparing for exam >_<
   - My Website: https://cokee.tech
   - Gitee Account: https://gitee.com/cokee
-- 🤔 How to connect with me
+- 🤔 Connect with me
   - Email: xiaoyangjunroms@outlook.com
+  - 洛谷: [cokee_R](https://www.luogu.com.cn/user/72787#main)
   - bilibili:CokeeOfficial
   - 爱发电:https://afdian.net/a/cokee
 [![cokeenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
