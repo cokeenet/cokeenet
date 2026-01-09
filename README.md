@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning 
   - C# / Web-NodeJS&H5 / Unity3D / STM32 & ESP32 / Python / 吸加加
 - ⚡ Fun fact: 
-  - I'm a 17-year-old middle school student and i'm preparing for exam >_<
+  - I'm a 17-year-old high school student and i'm preparing for exam >_<
   - My Website: https://cokee.tech
   - Gitee Account: https://gitee.com/cokee
 - 🤔 Connect with me
