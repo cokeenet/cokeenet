@@ -4,7 +4,7 @@
   - CokeeDP 一个班级屏保软件，初二写的，包含Bing壁纸/Bing每日视频背景源，一言展示，自定义小黑板轮播展示，生日提醒，天气预报轮播，农历节气展示
   - 代码太乱了所以没公开(Orz)
 - 🌱 I’m currently learning 
-  - C# / Web-NodeJS&H5 / Unity3D / STM32 & ESP32 / Python / 吸加加
+  - C# / Web / Python / 吸加加
 - ⚡ Fun fact: 
   - I'm a 17-year-old high school student and i'm preparing for exam >_<
   - My Website: https://cokee.tech
