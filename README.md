@@ -4,7 +4,6 @@
 - 🤔 Connect with me
   - Email: xiaoyangjunroms@outlook.com
   - Gitee Account: https://gitee.com/cokee
-  - 洛谷: [cokee_R](https://www.luogu.com.cn/user/72787#main)
   - bilibili:CokeeOfficial
   - 爱发电:https://afdian.net/a/cokee
 [![cokeenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokeenet)](https://github.com/anuraghazra/github-readme-stats)
