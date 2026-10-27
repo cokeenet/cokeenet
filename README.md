@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Cokee
 - 🌱 I’m currently learning 
-  - C# / Kotlin / Web / Python / 吸加加
+  - C# / Kotlin / Web 
 - 🤔 Connect with me
   - Email: xiaoyangjunroms@outlook.com
   - Gitee Account: https://gitee.com/cokee
